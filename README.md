@@ -4,23 +4,31 @@ Spotify control micropad made for hackpad.hackclub.com
 Please, don't judge me too much, it is my first PCB xD.
 ## KiCad
 - Schematic:
+
 ![Oh no! Something went wrong! Sorry :<](./assets/kicad-schem.png)
 - PCB:
+
 ![Oh no! Something went wrong! Sorry :<](./assets/kicad-pcb.png)
 ## External Gerber Viewer
 - Front
+
 ![Oh no! Something went wrong! Sorry :<](./assets/gerber-front.png)
 - Back
+
 ![Oh no! Something went wrong! Sorry :<](./assets/gerber-back.png)
 - Layers
+
 ![Oh no! Something went wrong! Sorry :<](./assets/gerber-layers.png)
 # Case
 The case is tilted 40 degrees so you can see the display! I will add screenshots with keycaps, screen and knob visualised today (7/17/2025). The darker thing inside is PCB (What? They said black rectangle is okay!)
 - Front
+
 ![Oh no! Something went wrong! Sorry :<](./assets/case-front.png)
 - Side
+
 ![Oh no! Something went wrong! Sorry :<](./assets/case-side.png)
 - Back
+
 ![Oh no! Something went wrong! Sorry :<](./assets/case-back.png)
 # Code
 Right now, the code is sloppy and probably won't work. The reason is that I don't have the microcontroller yet, so I don't know how to check if the code works, and there's nothing I hate more than writing code blindly without the ability to test it. The current code is more a visualization of my idea:
