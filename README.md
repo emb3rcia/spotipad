@@ -44,7 +44,7 @@ The screen has 3 options (currently only 1 is “visualized” via demo code).
 1. MX Switch model - [Gal Pavlin](https://grabcad.com/gal.pavlin-2) - [link](https://grabcad.com/library/cherry-mx-switch-2)
 2. MX Keycap Model - [Josh Hinnebusch](https://github.com/hineybush/CherryMX/tree/master) - [link](https://github.com/hineybush/CherryMX/tree/master)
 3. EC11 Rotary Encoder - [甘草酸不酸](https://grabcad.com/671f3b2e37-1) - [link](https://grabcad.com/library/rotary-encoder-17)
-4. SSD1036 0.91" 128x32px - [John](https://grabcad.com/john-772) - [link](https://grabcad.com/library/0-91in-oled-1)
+4. SSD1036 0.91" OLED 128x32px display - [John](https://grabcad.com/john-772) - [link](https://grabcad.com/library/0-91in-oled-1)
 # BOM
 - 1x Seeed XIAO RP2040
 - 3x MX-Style switches
