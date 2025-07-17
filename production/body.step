@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'body.step',
-/* time_stamp */ '2025-07-17T07:08:25+02:00',
+/* time_stamp */ '2025-07-17T08:21:23+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -1222,22 +1222,22 @@ SOLID_ANGLE_UNIT()
 #1166=PRODUCT_DEFINITION_SHAPE('',$,#1169);
 #1167=SHAPE_REPRESENTATION('',(#713),#1159);
 #1168=PRODUCT_DEFINITION_CONTEXT('part definition',#1173,'design');
-#1169=PRODUCT_DEFINITION('body','body v4',#1170,#1168);
+#1169=PRODUCT_DEFINITION('body','body v6',#1170,#1168);
 #1170=PRODUCT_DEFINITION_FORMATION('',$,#1175);
-#1171=PRODUCT_RELATED_PRODUCT_CATEGORY('body v4','body v4',(#1175));
+#1171=PRODUCT_RELATED_PRODUCT_CATEGORY('body v6','body v6',(#1175));
 #1172=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1173);
 #1173=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1174=PRODUCT_CONTEXT('part definition',#1173,'mechanical');
-#1175=PRODUCT('body','body v4',$,(#1174));
+#1175=PRODUCT('body','body v6',$,(#1174));
 #1176=PRESENTATION_STYLE_ASSIGNMENT((#1177));
 #1177=SURFACE_STYLE_USAGE(.BOTH.,#1178);
 #1178=SURFACE_SIDE_STYLE('',(#1179));
 #1179=SURFACE_STYLE_FILL_AREA(#1180);
-#1180=FILL_AREA_STYLE('Plastic - Glossy (Grey)',(#1181));
-#1181=FILL_AREA_STYLE_COLOUR('Plastic - Glossy (Grey)',#1182);
-#1182=COLOUR_RGB('Plastic - Glossy (Grey)',0.701960784313725,0.701960784313725,
-0.701960784313725);
+#1180=FILL_AREA_STYLE('Powder Coat - Rough (Black)',(#1181));
+#1181=FILL_AREA_STYLE_COLOUR('Powder Coat - Rough (Black)',#1182);
+#1182=COLOUR_RGB('Powder Coat - Rough (Black)',0.0980392156862745,0.0980392156862745,
+0.0980392156862745);
 ENDSEC;
 END-ISO-10303-21;
