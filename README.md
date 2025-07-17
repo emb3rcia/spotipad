@@ -22,15 +22,15 @@ Please, don't judge me too much, it is my first PCB xD.
 
 ![Oh no! Something went wrong! Sorry :<](./assets/gerber-layers.png)
 # Case
-The case is tilted 40 degrees so you can see the display! I will add screenshots with keycaps, screen and knob visualised today (7/17/2025). The darker thing inside is PCB (What? They said black rectangle is okay!)
+The case is tilted 40 degrees so you can see the display!.
 
-![Oh no! Something went wrong! Sorry :<](./assets/case-1.png)
+![Oh no! Something went wrong! Sorry :<](./assets/case_1.png)
 
-![Oh no! Something went wrong! Sorry :<](./assets/case-2.png)
+![Oh no! Something went wrong! Sorry :<](./assets/case_2.png)
 
-![Oh no! Something went wrong! Sorry :<](./assets/case-3.png)
+![Oh no! Something went wrong! Sorry :<](./assets/case_3.png)
 
-![Oh no! Something went wrong! Sorry :<](./assets/case-4.png)
+![Oh no! Something went wrong! Sorry :<](./assets/case_4.png)
 # Code
 Right now, the code is sloppy and probably won't work. The reason is that I don't have the microcontroller yet, so I don't know how to check if the code works, and there's nothing I hate more than writing code blindly without the ability to test it. The current code is more a visualization of my idea:
 Spotipad connects normally via USB
